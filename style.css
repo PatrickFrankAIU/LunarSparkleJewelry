@@ -8,6 +8,15 @@ img {
     margin: auto;
 }
 
+.centered-figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 0.8em; /* Adjust as needed */
+    font-style: italic;
+}
+
 header {
     background-color: #f3f4f6;
     padding: 20px;
