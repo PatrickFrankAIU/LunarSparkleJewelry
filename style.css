@@ -46,3 +46,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+img.team {
+    max-width: 300px;
+}
