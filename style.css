@@ -95,3 +95,20 @@ img.team {
     padding: 5px 0 5px 0;
     border-radius: 5px;
 }
+.products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.productCard{
+    flex: 1 1 300px;
+    margin: 10px;
+    border: 1px solid #7c9bc3;
+    border-radius: 5px;
+    padding:20px;
+    box-shadow:  0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.productCard p{
+    font-weight: bold;
+}
+
