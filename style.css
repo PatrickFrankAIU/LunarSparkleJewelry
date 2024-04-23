@@ -77,6 +77,16 @@ footer {
     width: 100%;
 }
 
+.social-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.social {
+    width: 30%;
+}
+
 img.team {
     max-width: 300px;
 }
